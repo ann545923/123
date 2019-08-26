@@ -1,0 +1,3 @@
+def add(num1,num2)
+s= num1+num2
+print ("the addition is", s)
